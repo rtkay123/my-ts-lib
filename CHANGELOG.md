@@ -1,5 +1,26 @@
 
 
+## v1.3.0
+
+## Milestone: Multiply
+Date: 2024-09-27T07:00:00Z
+Description: 
+
+### ⭐️ New Features
+
+- feat: multiply (Linked Issues: 9d31399b634bafe639d78f434fa66cf3dd53f6cc)
+
+### ⚙️ Chores
+
+- chore: Update VERSION to v1.2.0 (Linked Issues: 6641ad8b744ffc8aa51572a738c575b5f1bd464b)
+- chore: Update CHANGELOG.md for v1.2.0 (Linked Issues: e8deed46e01a1bb72563821fbd3e86fcd1fa4589)
+
+### 📝 Other Changes
+
+- Merge pull request #11 from rtkay123/dev (Linked Issues: 9d1a79ad74a11e30317a29c9d2bde21089b65ff6)
+- Merge pull request #9 from rtkay123/main (Linked Issues: 9a4932f754e4f027198331127c4de852335762be)
+- Merge pull request #8 from rtkay123/dev (Linked Issues: 6234388f717d0d636f1c2f6971a4a3b73599d90c)
+
 ## v1.2.0
 
 ## Milestone: Subtract
