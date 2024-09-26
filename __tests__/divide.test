@@ -1,0 +1,8 @@
+import { divide } from "../src/index";
+
+describe("Division", () => {
+  test("divide", () => {
+    let output = divide(4, 2);
+    expect(output).toBe(2);
+  });
+});
