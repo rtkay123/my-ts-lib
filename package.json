@@ -1,7 +1,7 @@
 {
     "name": "@rtkay123/my-ts-lib",
     "main": "lib/index.js",
-    "version": "0.1.0",
+    "version": "1.0.0-rc.0",
     "description": "A sample typescript library",
     "repository": {
         "type": "git",
