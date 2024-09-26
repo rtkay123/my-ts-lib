@@ -1,5 +1,23 @@
 
 
+## v1.2.0
+
+## Milestone: Subtract
+Date: 2024-09-27T07:00:00Z
+Description: 
+
+### ⭐️ New Features
+
+- feat: subtract (Linked Issues: 0df5acf0d8b687b8cd78030f077d4080eb8604c8)
+
+### ⚙️ Chores
+
+- chore: Update CHANGELOG.md for v1.1.0 (Linked Issues: b43ab214d7734752c24926b488439d50625c1efd)
+
+### 📝 Other Changes
+
+- Merge pull request #8 from rtkay123/dev (Linked Issues: 6234388f717d0d636f1c2f6971a4a3b73599d90c)
+
 ## v1.1.0
 
 ## Milestone: Add
